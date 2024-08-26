@@ -1,13 +1,18 @@
 div{
     background:radial-gradient(rgb(255, 192, 203,0.8),rgb(123, 204, 244,0.6));
     position: relative;
-    top: 5rem;
+    top: 3rem;
     width: 50rem;
-    height: 36rem;
+    height: 42rem;
     border: 2px solid black;
     border-radius: 25px;
 }
 
+h1{
+    font-size: 40px;
+    color: rgb(7, 139, 255);
+    text-decoration: solid black underline;
+}
 input{
     width: 300px;
     height: 100px;
